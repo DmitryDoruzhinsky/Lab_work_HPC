@@ -1,4 +1,4 @@
-# Laboratory works on the discipline High Performance Computing (PHC)
+# Laboratory works on the discipline High Performance Computing (HPC)
 В данном репозитории представлены лабораторные работы по дисциплине Высокпроизводительные вычесления, выполненные на языке программирования Python c использованием библиотеки NUMBA (CUDA).
 
 1. Matrix Multiplication;
