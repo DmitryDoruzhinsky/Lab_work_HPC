@@ -6,5 +6,5 @@
 3. Pi-value Calculation;
 4. Bilateral Filtering.
 
-Код с исользованием GPU выполнялся на Tesla T4 (Google Colab).
+Код с исользованием GPU выполнялся на Tesla T4 (Google Colab). <\br>
 Код с исползованием CPU выполнялся на AMD Ryzen 5 4500U.
