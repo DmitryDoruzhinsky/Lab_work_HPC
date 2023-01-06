@@ -7,5 +7,5 @@
 
 
 Код для вычисления на CPU находится в файле *Matrix_Multiplication_CPU.ipynb*. </br>
-Код для вычесления на GPU находится на [Google Drive](https://colab.research.google.com/drive/1bsC4f8GGWNZRWALz3H9h7z2QKsPqnfRh#scrollTo=aC4rG8w8WKFq).
+Код для вычесления на GPU находится на [Google Drive](https://colab.research.google.com/drive/1iNtHkdFxHOCu43tEV14u1Ih50BHfgYTM).
 
