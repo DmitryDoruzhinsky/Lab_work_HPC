@@ -5,7 +5,7 @@
 </br>
 GPU - *xoroshiro128p_uniform_float32()* из библиотеки numba.cuda.random.
 </br>
-CPU - *random.uniform()* из библиотеки numpy.
+CPU - *uniform()* из библиотеки numpy.random.
 </br>
 Также для генерации случайных массивов на GPU была использованная функция create_xoroshiro128p_states() из библиотеки numba.cuda.random.
 </br>
