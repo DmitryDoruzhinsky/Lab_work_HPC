@@ -12,9 +12,7 @@ CPU - *uniform()* из библиотеки numpy.random.
 Ниже представленны полученные результаты:
 </br>
 ![image](https://user-images.githubusercontent.com/83270014/211166438-4dfc2f35-5796-453d-9667-18449d194192.png)
-</br>
 
-</br>
 ![image](https://user-images.githubusercontent.com/83270014/211167381-ceefa19c-743b-4464-9813-3d16c0907489.png)
 
 </br>
