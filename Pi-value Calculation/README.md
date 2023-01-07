@@ -15,7 +15,8 @@ CPU - *uniform()* из библиотеки numpy.random.
 </br>
 
 </br>
-![image](https://user-images.githubusercontent.com/83270014/211166485-e067e289-b2bb-4320-9e4f-abf7424250bf.png)
+![image](https://user-images.githubusercontent.com/83270014/211167347-2903b9cd-a1fb-4fd8-b97d-846ef3d8b798.png)
+
 </br>
 Первое значение времени выполнение на GPU выбивается из общей картины, возможно причиной этому служит задержка перед передачей данных GoogleColab, так как это повторяется из раза в раз.
 </br
