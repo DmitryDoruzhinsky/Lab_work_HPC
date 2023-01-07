@@ -13,18 +13,16 @@ CPU - *uniform()* из библиотеки numpy.random.
 </br>
 ![image](https://user-images.githubusercontent.com/83270014/211166438-4dfc2f35-5796-453d-9667-18449d194192.png)
 
-![image](https://user-images.githubusercontent.com/83270014/211167381-ceefa19c-743b-4464-9813-3d16c0907489.png)
-
+![image](https://user-images.githubusercontent.com/83270014/211167466-8ff01db6-d4f0-460e-b620-f186ad3d9cbf.png)
 </br>
 Первое значение времени выполнение на GPU выбивается из общей картины, возможно причиной этому служит задержка перед передачей данных GoogleColab, так как это повторяется из раза в раз.
 </br
 Также было посчитано ускорение:
-</br>
-![image](https://user-images.githubusercontent.com/83270014/211166532-54670e5a-fae0-4603-8082-2e2a9428e1c8.png)
+![image](https://user-images.githubusercontent.com/83270014/211167472-7d11c9a0-6299-454e-b136-573c5d2d9cf9.png)
 </br>
 график:
-</br>
-![image](https://user-images.githubusercontent.com/83270014/211166541-6824622b-2b5f-464e-be96-8bcd9fa1abeb.png)
+
+![image](https://user-images.githubusercontent.com/83270014/211167483-b6e330be-a61e-4cee-860f-0bb306a80f07.png)
 </br>
 Можем наблюдать, что вычесления на GPU идут быстрее с увеличением кол-ва случайных точек. Значение же числа **pi** на 401000 случайных точек можно считать удовлетворительным  (GPU - 3.144549, CPU - 3.145327). 
 </br>
