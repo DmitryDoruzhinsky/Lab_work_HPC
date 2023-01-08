@@ -6,5 +6,6 @@
 Можно сделать вывод, что распаралеливание алгоритма для двусторонней фильтрации на GPU имеет большой смысл для обеспечение быстрой обработки изображений.
 
 </br>
-Код для вычисления на CPU находится в файле *Bilaterial_Filtering_CPU.ipynb*.
-Код для вычесления на GPU находится на [Google Drive](https://colab.research.google.com/drive/13wOf9KAe48bbT9Ss8TN84FrpYAvai9pv#scrollTo=P6V79w7NI06F).
+Код для вычисления на CPU находится в файле *Bilaterial_Filtering_CPU.ipynb*.</br>
+
+Код для вычесления на GPU находится на [GOogle Drive](https://colab.research.google.com/drive/13wOf9KAe48bbT9Ss8TN84FrpYAvai9pv#scrollTo=P6V79w7NI06F).
